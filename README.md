@@ -3,5 +3,5 @@ Developed an Android App for users to monitor the most updated global earthquake
 Data: fetch the real-time data in GeoJSON format from US Geological Survey Website API with Volley library.
 
 ## App Demo
-<img src="./app display.png" width=800 alt="centered image">
+<img src="./app display.png" width=400 alt="centered image">
 
