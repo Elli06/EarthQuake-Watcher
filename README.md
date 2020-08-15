@@ -1,6 +1,7 @@
 # EarthQuake-Watcher
 Developed an Android App for users to monitor the most updated global earthquake events happen in the past 7 days.
-## Data: fetch the real-time data in GeoJSON format from US Geological Survey Website API with Volley library. 
+## Data 
+  * Fetched the real-time data in GeoJSON format from US Geological Survey Website API with Volley library. 
   * Data scource: https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
 ## Develop Tools: 
  * Language: Java
